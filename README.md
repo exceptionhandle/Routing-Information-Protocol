@@ -3,8 +3,6 @@
 
 Software Defined Routing
 
-Due Time: 05/06/2016 @ 23:59:59 EDT
-
 1. Objective
 
 Implement a simplified version of the Distance Vector routing protocol over simulated routers.
